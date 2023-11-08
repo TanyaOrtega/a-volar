@@ -1,0 +1,30 @@
+.carousel-item {
+max-height: 30rem;
+max-width: 1000px;
+}
+.mx-auto {
+    max-width: 1000px;
+}
+
+.social-link {
+    text-decoration: none;
+    color: black; 
+  }
+
+  .post {
+    transition: transform 0.2s ease-out;
+  }
+  
+  .post:hover {
+    transform: scale(1.1);
+  }
+
+  .nav-item {
+    transition: transform 0.2s ease-out;
+  }
+  
+  .nav-item:hover {
+    transform: scale(1.1);
+  }
+
+  
